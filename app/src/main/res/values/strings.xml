@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ElSpar</string>
+    <string name="avg_price">Gjennomsnitt i dag: %.2f kr\/kWh</string>
+    <string name="max_price">Høyeste i dag: %.2f kr\/kWh</string>
+    <string name="min_price">Minste i dag: %.2f kr\/kWh</string>
+    <string name="pick_price_area">Prisområde</string>
+    <string name="prisomraderPlaceholder">prisomrader placeholder</string>
+    <string name="Preferanser">Preferanser</string>
+    <string name="velg_prisområde">Velg prisområde</string>
+    <string name="skru_av_moms">Skru av moms</string>
+    <string name="mer_om_strom">Mer om strøm</string>
+    <string name="om_oss">Om oss</string>
+    <string name="dusj">Dusj</string>
+    <string name="klesvask">Klesvask</string>
+    <string name="ovn">Ovn</string>
+    <string name="lade_bil">Lade bil</string>
+    <string name="Hva_er_en_KWH">Hva er en \'kWh\'?</string>
+    <string name="Underoverskrift1">Mange ser kWh bli skrevet men veit ikke helt hva det er</string>
+    <string name="Brodtekst1">Kilowatt er en måleenhet for strømforbruk. En kilowattime er det samme som 1000 Wh, eller 1000 Watt-timer. Om du har et apparat som bruker én Watt, vil denne på en time bruke en Wh, og et apparat som bruker 1000 Watt vil på en time bruke en kWh. Et kjøleskap, for eksempel, bruker vanligvis rundt 200 Watt, og må stå på i 5 timer for å bruke en kWh.</string>
+    <string name="Aktiviteter">Aktiviteter</string>
+    <string name="Underoverskrift2">Hvilke antagelser er gjort?</string>
+    <string name="Brodtekst2">I strøm-kalkulatoren har vi vært nødt til å gjøre noen antakelser. Vi har antatt at: En dusj bruker rundt 0.5 kWh i minuttet, en klesvask bruker rundt 0.008 og en ovn bruker rundt 0.04kWh. Hvor stor kapasitet el-bilen din har, fører du inn selv.</string>
+    <string name="Prognose">Prognose</string>
+    <string name="Underoverskrift3">Hva baserer prognosen seg på?</string>
+    <string name="Spotpris">Spotpris</string>
+    <string name="Underoverskrift4">Hva bestemmer spotprisene?</string>
+    <string name="Brodtekst4">I nord–europa har vi en kraftbørs som heter Nord Pool der spotprisen bestemmes. Strømprisene blir for det meste basert på etterspørsel og tilbud, altså høy etterspørsel og lavt tilbud gir dyr strøm. Man kan se årlige svingninger i etterspørsel (mye om vinteren, lite om sommeren), og daglige (lite midt på natten, mye på ettermiddagen). Derfor vil strømprisen variere mye. Produksjonen varierer også. Når Norge og de andre landene i Nord Pool produserer mye strøm vil prisen være lav, og motsatt. I tillegg påvirkes prisen av andre faktorer som kurs og avgifter. Prisen for en gitt dag bestemmes dagen før, rundt klokken 13-14.</string>
+    <string name="Gruppen">Gruppen</string>
+    <string name="AppMaal">Målet med appen</string>
+    <string name="retry">Prøv igjen</string>
+    <string name="power_overview">Strømoversikt</string>
+    <string name="power_calculator">Strømkalkulator</string>
+    <string name="settings">Innstillinger</string>
+    <string name="choose_pricearea">Velg prisområde</string>
+    <string name="preferences">Preferanser</string>
+    <string name="more_about_electricity">Mer om strøm</string>
+    <string name="about_us">Om oss</string>
+    <string name="price_x_above_average">Strømprisen nå er %.1f ganger dagens gjennomsnitt.</string>
+    <string name="good_idea"> Det er ikke en dårlig ide å bruke mye strøm nå.</string>
+    <string name="bad_idea"> Det er lurt å vente med strømkrevende oppgaver.</string>
+    <string name="no_cheaper_price_today">Det blir ikke noe billigere i dag.</string>
+    <string name="prognosis_about">Vi bruker maskinlæring for å gjøre et prisestimat de kommende dagene. Vi henter spotprisen fra hvakosterstrømmen.no og værdata fra Meteorologisk Institutt fra de siste 48 timene og sender det gjennom en forhåndstrent maskinlæringsmodell lokalt på enheten. Resultatet kan gi en indikasjon på prisnivået basert på været og pristrenden de siste to dagene, men vil ikke kunne gi et veldig nøyaktig resultat pga. spotprisens uforutsigbare natur.</string>
+
+</resources>
+
