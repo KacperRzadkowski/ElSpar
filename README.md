@@ -1,5 +1,9 @@
-# © 2023 Eirik Ravnkleven Tøndel, Erik Orten, Sebastian Koranda, Elise Evjen, Iver Korvald, Kacper Sradkowski 
-# Institutt for informatikk, Universitetet i Oslo
+# ElSpar
+
+```
+© 2023 Eirik Ravnkleven Tøndel, Erik Orten, Sebastian Koranda, Elise Evjen, Iver Korvald, Kacper Sradkowski 
+Institutt for informatikk, Universitetet i Oslo
+```
 
 The is an Android app developed by the students mentioned above. The app code is written in Kotlin, while the machine learning is done in Python. UI components are designed with Jetpack Compose.
 
