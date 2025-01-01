@@ -1,7 +1,7 @@
 # ElSpar
 
 ```
-© 2023 Eirik Ravnkleven Tøndel, Erik Orten, Sebastian Koranda, Elise Evjen, Iver Korvald, Kacper Sradkowski 
+© 2023 Eirik Ravnkleven Tøndel, Erik Orten, Sebastian Koranda, Elise Evjen, Iver Korvald, Kacper Rradkowski 
 Institutt for informatikk, Universitetet i Oslo
 ```
 
